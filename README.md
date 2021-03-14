@@ -1,2 +1,1 @@
-# portnov
-Portnov School Demo Repository
+Portnov Computer School Demo Repository
